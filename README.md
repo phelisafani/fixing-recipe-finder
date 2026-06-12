@@ -78,3 +78,4 @@ F. The Action:
 
 The Roadblock: Look closely at the git status output.
 Solve the road block: Is there anything that is off? Explain.
+Alternative text added by Sarah
